@@ -1,0 +1,16 @@
+Bonjour Guillaume !
+
+Déjà, désolé pour le retard. Le trailer arrive mardi après le rattrape de Psycho co. 
+
+!!!! PRESENTATION !!!!
+
+Concernant mon exercice Unity, il a quelques soucis. Déjà j'ai mal géré les histoires d'UI et du coup l'interface fonctionne mal lorsque le jeu n'est pas en 720p. En 1080p ça donne un truc pas très propre, je vous laisse constater.
+
+Ensuite, j'ai codé pas mal d'éléments mais j'ai bloqué sur la fin. Le jeu devait être une série d'énigmes dans une ambiance pesante, le tout pour atteindre la porte bloquée par le masque géant. On devait se mettre devant le masque qu'on pensait correspondre à l'enigme et fermer les yeux pour voir le résultat. Vous pourrez tester ça avec les contrôles, mais la progression n'est pas mise en place.
+
+!!!! CONTROLES !!!!
+
+Clic gauche --> fermer les yeux
+Clic droit --> Indices pour les enigmes (normalement pas sous le contrôle du joueur)
+Clic milieu --> déclenchement du game over (normalement pas sous le contrôle du joueur)
+Maj --> sprint
